@@ -4,3 +4,5 @@ addons:
 
 before_script:
   - pg_lsclusters
+script:
+  - ruby test.rb
