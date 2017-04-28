@@ -1,0 +1,6 @@
+language: ruby
+addons:
+  postgresql: "9.4"
+
+before_script:
+  - pg_lsclusters
