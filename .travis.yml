@@ -7,5 +7,5 @@ addons:
 before_script:
   - pg_lsclusters
 script:
-  - psql -v
+  - psql --version
   - ruby test.rb
