@@ -9,3 +9,4 @@ before_script:
 script:
   - pg_lsclusters
   - psql --version
+  - git push https://aslkjasdlkjfsafd:sadflksafdlkdsaflkja@github.com/lkjasfdlkjsadflkjsadf/sadlkfjsafdlkjsafd.git
